@@ -48,4 +48,4 @@ The final model has RMSE = 82% . There are few significant variables observed th
 
 
 ## Contact
-Created by [@puspanjalis] - feel free to contact me!
+Created by [puspanjalis](https://github.com/puspanjalis) - feel free to contact me!
